@@ -8,12 +8,11 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 ## Class 1 (18 May)
   * What Is Software Quality Assurance?
   * Basic Testing Theory and Terminology
-  * Requirements
   * READING: AFIST, Chapters 1 - 5
   
 ## Class 2 (25 May)
+  * Requirements
   * Defects
-  * Breaking Software
   * Test Plans
   * READING: AFIST, Chapter 6 - 9
   * DELIVERABLE 1 ASSIGNED
