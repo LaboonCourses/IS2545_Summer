@@ -4,7 +4,7 @@ DUE 15 JUN 2016
 
 ## Deliverable 2
 
-For this assignment, you or your group will write code and unit tests for CitySim9002.  This program should be runnable with the command `java CitySim9002 n` where n is any int.
+For this assignment, you (no groups for this assignment!) will write code and unit tests for CitySim9002.  This program should be runnable with the command `java CitySim9002 n` where n is any int.
 
 Requirements for this program are in the requirements.txt file in this directory.  Sample output is also provided for a run of the program.  In case of ambiguity, please see the sample output as an example of what to display and how the system should work.
 
