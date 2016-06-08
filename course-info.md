@@ -43,18 +43,19 @@ Grading:
 
 Total: The grading scale below shall be used. Note that I do not round grades up (or down), although I may curve the course grades for the entire class.  This will _only_ be done if the curve favors students (that is, I may make a 93.00 the new lower bound for an A; I will never increase the lower bound to, say, 96.00)
 
-100.00-94.00 A (A+ for extraordinary work)
-93.99-91.00	 A-
-90.99-88.00	 B+
-87.99-84.00	 B
-83.99-81.00	 B-
-80.99-78.00	 C+
-77.99-74.00	 C
-73.99-71.00	 C-
-70.99-68.00	 D+
-67.99-64.00	 D
-63.99-61.00	 D-
-60.99-0.00	 F
+100.00-94.00 A (A+ for extraordinary work)  
+93.99-91.00	 A-  
+90.99-88.00	 B+  
+87.99-84.00	 B  
+83.99-81.00	 B-  
+80.99-78.00	 C+  
+77.99-74.00	 C  
+73.99-71.00	 C-  
+70.99-68.00	 D+  
+67.99-64.00	 D  
+63.99-61.00	 D-  
+60.99-0.00	 F  
+
 
 All groups are expected to do their own work on the group project, but are more than welcome to collaborate and ask questions with other groups, the Internet, or other colleagues.  However, any student caught collaborating or cheating in an unauthorized way will get an automatic 0 for that assignment, and may be penalized more harshly based on University of Pittsburgh academic policy.  Examples of unauthorized collaboration include: wholesale copying and pasting of large sections of code, asking somebody else to do the assignment for you, or paying somebody to do the assignment for you.  If you question whether what you are doing is authorized, you may feel free to come speak with me during office hours or email me.
 
