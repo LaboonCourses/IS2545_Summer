@@ -1,5 +1,5 @@
 # IS2545 - Software Quality Assurance
-Summer Semester 2015
+Summer Semester 2015  
 DUE 15 JUN 2016
 
 ## Deliverable 2
@@ -29,7 +29,7 @@ At least three (3) unit tests should use stubbing of methods.
 
 I expect unit tests for AT LEAST each public method that returns a value (excluding the main method), using a variety of assertions and looking at different failure modes and edge cases.  Keep in mind some of the things we learned when doing manual testing; you should be cognizant of equivalence classes, boundary values, etc. and focus on them.
 
-The program should use appropriate object-oriented design.
+The program should use appropriate object-oriented design.  This will also make it easier for you to write tests using proper doubles, mocks, and stubs.
 
 Before each test, add some comments (two or three sentences, on average) explaining what the test is checking.  For example...
 

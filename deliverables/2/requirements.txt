@@ -12,10 +12,8 @@ FUN-ITERATIONS. For each iteration, the program shall randomly select a location
 
 FUN-ITER-DISPLAY. At each iteration, the program shall display where the Visitor has visited and whether or not the Visitor liked that location.  This output shall be of the format:
 
-```
 Visitor x is going to LOCATION!
 Visitor x [did/did not] like LOCATION.
-```
 
 where _x_ is the number of the Visitor, _LOCATION_ is the location they are visiting this iteration, and _[did/did not]_ follows the rules specified in FUN_PREFERENCES.
 
