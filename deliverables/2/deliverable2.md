@@ -6,9 +6,9 @@ DUE 15 JUN 2016
 
 For this assignment, you or your group will write code and unit tests for CitySim9002.  This program should be runnable with the command `java CitySim9002 n` where n is any int.
 
-Requirements for this program are in the requirements.txt file in this directory.  Sample output is also provided for several runs of the program.  In case of ambiguity, please see the sample output as an example of what to display and how the system should work.
+Requirements for this program are in the requirements.txt file in this directory.  Sample output is also provided for a run of the program.  In case of ambiguity, please see the sample output as an example of what to display and how the system should work.
 
-All code and tests should be on GitHub or GitLab in a private repository accessible to me.
+All code and tests should be on GitHub or GitLab in a repository accessible to me.
 
 ## Format
 You should turn in a title page with:
@@ -29,7 +29,7 @@ At least three (3) unit tests should use stubbing of methods.
 
 I expect unit tests for AT LEAST each public method that returns a value (excluding the main method), using a variety of assertions and looking at different failure modes and edge cases.  Keep in mind some of the things we learned when doing manual testing; you should be cognizant of equivalence classes, boundary values, etc. and focus on them.
 
-The program should use appropriate object-oriented design.  This will also make it easier for you to write tests using proper doubles, mocks, and stubs.
+The program should use appropriate object-oriented design.  This means several classes with various methods and attributes.  Using proper object-oriented design will also make it easier for you to write tests using proper doubles, mocks, and stubs.
 
 Before each test, add some comments (two or three sentences, on average) explaining what the test is checking.  For example...
 
