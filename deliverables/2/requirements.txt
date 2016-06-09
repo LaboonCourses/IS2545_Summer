@@ -17,9 +17,9 @@ Visitor x [did/did not] like LOCATION.
 
 where _x_ is the number of the Visitor, _LOCATION_ is the location they are visiting this iteration, and _[did/did not]_ follows the rules specified in FUN_PREFERENCES.
 
-FUN-FIRST-VISIT. For the first visit for a given Visitor, the Visitor cannot leave the City.  This option
+FUN-FIRST-VISIT. For the first visit for a given Visitor, the Visitor cannot leave the City.  The Visitor must visit at least one Location.
 
-FUN-NUM-ITERATIONS. There shall be no limit on the number of iterations for a given Visitor.  The Visitor shall continue 
+FUN-NUM-ITERATIONS. There shall be no limit on the number of iterations for a given Visitor.
 
 FUN-REPEAT. A Visitor shall be able to repeatedly visit a location if the random number generator produces that as the next location.
 
