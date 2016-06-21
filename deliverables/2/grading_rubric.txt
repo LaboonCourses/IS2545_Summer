@@ -1,0 +1,31 @@
+Summary:                                                    ____ / 10
+
+Screenshot:                                                 ____ / 10
+
+Program Code (40%):                                         
+
+Five visitors traverse:                                     ____ / 5
+
+Visitors are of correct type:                               ____ / 5
+
+Proper messages:                                            ____ / 5
+
+Preferences correct:                                        ____ / 5
+
+Argument from command line:                                 ____ / 10
+
+General code quality:                                       ____ / 10
+
+Test Code (40%):
+
+Three test doubles used properly:                           ____ / 10
+
+Three stubs used properly:                                  ____ / 10
+
+Tests check every public method:                            ____ / 10
+
+General test quality:                                       ____ / 10
+
+Total:
+
+                                                            ____ / 100
