@@ -39,7 +39,7 @@ The JUnit tests shall have the scenario that they are testing written in the com
 
 Remember that scenarios are USER-level tests; they should discuss things in a way that an intelligent user of the software would understand.  Remember the differences between scenario tests and unit tests!
 
-You should use Selenium version 2.52, not the latest version (2.53).  This latest build is much more difficult to configure since it no longer has HtmlUnitDriver built-in.
+You should use Selenium version 2.52, not the latest version (2.53).  This latest build is much more difficult to configure since it no longer has HtmlUnitDriver built-in.  I recommend that you use HtmlUnitDriver and not FirefoxDriver.
 
 Links for Selenium jars:
 
