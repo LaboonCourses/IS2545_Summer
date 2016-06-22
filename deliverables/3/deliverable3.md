@@ -47,6 +47,8 @@ Links for Selenium jars:
 
 2.52 Java bindings jar: http://selenium-release.storage.googleapis.com/2.52/selenium-java-2.52.0.zip
 
+Selenium IDE: https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
+
 ## Ruby Basics
 
 I do not expect you to learn yet another language for this course.  However, you will often be thrown into situations where you do not have deep domain knowledge but you will have to work on tests.  Here is a basic primer for the application.
