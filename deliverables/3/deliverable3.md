@@ -27,6 +27,8 @@ At the end of this section, note where your test code is located.
 
 After this, there should be a printout or screen shot of the test execution results.
 
+Multiple page papers should be held together in some way - staples, a binder clip, a paperclip, etc.  Points will be deducted if they are not.
+
 There is no need to print out the code.  It should be put on a publicly-available site such as GitHub BY THE BEGINNING OF CLASS.
 
 There shall be 3 (three) user stories - no more, no less.  Each user story should have multiple (at least two) scenarios.  There shall be a total of at least 9 scenarios.  One way to do this would be three scenarios per user story, but you may find that it makes more sense to have, say, five scenarios for one story, and two scenarios each for the other story.

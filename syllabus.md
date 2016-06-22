@@ -41,7 +41,10 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
   * Web Testing with Selenium, Part 3
   * Web Testing Exercise
   * DELIVERABLE 3 ASSIGNED  
-  
+
+## NO CLASS 29 JUN
+  * Work on Deliverable 3!
+
 ## Class 7 (6 Jul)
   * Pairwise and Combinatorial Testing
   * Stochastic and Property-Based Testing
