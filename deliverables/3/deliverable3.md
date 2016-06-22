@@ -1,7 +1,7 @@
 # IS2545 - Software Quality Assurance
 Summer Semester 2016
 
-DUE 29 Jun 2016
+DUE 6 JUL 2016
 
 ## Deliverable 3
 
