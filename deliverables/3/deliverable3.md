@@ -39,6 +39,14 @@ The JUnit tests shall have the scenario that they are testing written in the com
 
 Remember that scenarios are USER-level tests; they should discuss things in a way that an intelligent user of the software would understand.  Remember the differences between scenario tests and unit tests!
 
+You should use Selenium version 2.52, not the latest version (2.53).  This latest build is much more difficult to configure since it no longer has HtmlUnitDriver built-in.
+
+Links for Selenium jars:
+
+2.52 Selenium Server jar: http://selenium-release.storage.googleapis.com/2.52/selenium-server-standalone-2.52.0.jar
+
+2.52 Java bindings jar: http://selenium-release.storage.googleapis.com/2.52/selenium-java-2.52.0.zip
+
 ## Ruby Basics
 
 I do not expect you to learn yet another language for this course.  However, you will often be thrown into situations where you do not have deep domain knowledge but you will have to work on tests.  Here is a basic primer for the application.
