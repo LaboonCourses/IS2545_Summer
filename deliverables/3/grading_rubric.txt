@@ -1,0 +1,46 @@
+Grading Rubric
+Deliverable 3
+
+Summary and Testing Concerns:                    _________ / 10
+
+Screen shot of test results:                     _________ / 10
+
+User Stories and Scenarios:
+
+Stories in Connextra template:                   _________ / 5
+As a...
+I want..
+So that..
+ 
+Scenarios in Given/When/Then template:           _________ / 5
+Given... (some preconditions) [optional]
+When... (some execution steps)
+Then... (some postconditions)
+
+User stories line up w/ functionality:           _________ / 5
+
+Scenarios line up w/ functionality:              _________ / 5
+
+Scenarios line up w/ user stories:               _________ / 5
+
+Scenarios line up w/ tests:                      _________ / 5
+
+Test code:
+
+Tests coded / work correctly:                    _________ / 20
+Runs on grader's system
+Green tests unless otherwise specified
+
+Tests check using appropriate asserts:           _________ / 20
+Assertions are checking for relevant
+behavior
+
+General code quality:                            _________ / 10
+Indents are OK
+Variables named appropriately
+Easy to read
+No commented-out code
+Comments explain what code is doing
+
+Total:
+                                                 _________ / 100
