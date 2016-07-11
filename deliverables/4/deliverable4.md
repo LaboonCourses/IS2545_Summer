@@ -7,7 +7,7 @@ DUE 13 Jul 2016
 
 For this assignment, you will write the code for a modified map function (described below), and then use your own property-based testing tests to ensure that you have handled all edge cases.
 
-For the JUnit-based property-based tests, generate a minimum of 100 different random arrays of different sizes, and test different properties (many examples were discussed in the lecture on property-based testing) of sorting them.  You should test at least three properties of each resulting array.  You should use traditional JUnit test procedures (e.g., use assertions, don't use System.out.println during normal execution, etc.)  
+For the JUnit-based property-based tests, generate a minimum of 100 different random arrays of different sizes, and test different properties (many examples were discussed in the lecture on property-based testing) of "billifying" them.  You should test at least three properties of each resulting array.  You should use traditional JUnit test procedures (e.g., use assertions, don't use System.out.println during normal execution, etc.)  
 
 There should be one property tested with each JUnit method.  Therefore, there should be three different @Test-annotated methods.  You should not use junit-quickcheck or any other property-based testing framework - you are creating your own.
 
