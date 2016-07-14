@@ -1,0 +1,43 @@
+Grading Rubric
+Deliverable 4
+
+Summary and Testing Concerns:                    _________ / 10
+
+Screen shot of test results:                     _________ / 20
+
+billify function:
+
+Squares all values:                              _________ / 10
+
+Adds sum at end:                                 _________ / 5
+
+General code quality:                            _________ / 5
+
+Properties:
+
+Arrays generated properly:                       _________ / 10
+100 arrays
+Size 1 - 100
+Values from 1 to 100 only
+
+Good properties:                                 _________ / 15
+e.g.:
+   Output array size > input array by one
+   Final array value larger than any others
+   Every non-final value square of input
+   Final value always equal to sum of previous
+   etc.
+   
+Properties tested well:                          _________ / 15
+Code actually does what property
+Should work in all cases
+
+General test code quality:                       _________ / 10
+Indents are OK
+Variables named appropriately
+Easy to read
+No commented-out code
+Comments explain what code is doing
+
+Total:
+                                                 _________ / 100
