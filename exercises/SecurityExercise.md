@@ -6,6 +6,8 @@ Go to this site: https://www.hackthissite.org/
 
 Make an account and complete as many of the "Basic Missions" 1 - 10 (not 11) as you can.  If you complete them, you may move on to "Realistic Missions" or whichever other missions you find interesting.  If you do not complete them by the end of class, you are free to leave.
 
+Anyone who completes levels 1-10 and sends me an email with a screenshot of the completed level 10 will get a prize during the next class.
+
 Hints:
 
 1. Levels 4 and 5 - Depending on how you do level 4, level 5 may be the exact same answer.
